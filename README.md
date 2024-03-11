@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i like CAS and 
+- ⚡ Fun fact: i like CAS and do some FUN Project  
 
 <!---
 ShuanyeBox/ShuanyeBox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
